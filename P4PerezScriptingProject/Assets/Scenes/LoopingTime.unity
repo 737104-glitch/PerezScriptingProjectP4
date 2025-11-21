@@ -166,6 +166,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 152970272}
+  - component: {fileID: 152970273}
   m_Layer: 0
   m_Name: For Loop
   m_TagString: Untagged
@@ -188,6 +189,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 108945651}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &152970273
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 152970271}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4504e10226085e6468baec241504d08a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &297494876
 GameObject:
   m_ObjectHideFlags: 0
@@ -383,6 +396,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 454823807}
+  - component: {fileID: 454823808}
   m_Layer: 0
   m_Name: WhileLoop
   m_TagString: Untagged
@@ -405,6 +419,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 108945651}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &454823808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 454823806}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbf2b7e98fbd7c5428e4cd0ecbd60638, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &540912578
 GameObject:
   m_ObjectHideFlags: 0
@@ -414,6 +440,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 540912579}
+  - component: {fileID: 540912580}
   m_Layer: 0
   m_Name: ForEachLoop
   m_TagString: Untagged
@@ -436,6 +463,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 108945651}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &540912580
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 540912578}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e773cf9246fd4284eb25ee9581fd27c0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &690630816
 GameObject:
   m_ObjectHideFlags: 0
@@ -445,6 +484,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 690630817}
+  - component: {fileID: 690630818}
   m_Layer: 0
   m_Name: DoWhileLoop
   m_TagString: Untagged
@@ -467,6 +507,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 108945651}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &690630818
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 690630816}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdbb1fae765c82248ab2b505d7fc4846, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1144057157
 GameObject:
   m_ObjectHideFlags: 0
